@@ -1,29 +1,27 @@
-# README #
+# HRIS Attendance System - CodeIgniter 3
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A Human Resource Information System (HRIS) focused on employee attendance tracking, built with CodeIgniter 3.
 
-### What is this repository for? ###
+## Features
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+✅ Employee Management  
+✅ Attendance Logging (Clock In / Clock Out)  
+✅ Leave Management  
+✅ Daily/Weekly/Monthly Attendance Reports  
+✅ Export to CSV / PDF  
+✅ Role-based Access Control (Admin, HR, Employee)  
+✅ Responsive UI with Bootstrap  
+✅ API-ready for mobile or integrations  
 
-### How do I get set up? ###
+## Requirements
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+- PHP 7.3 or higher
+- MySQL 5.7+ / MariaDB
+- Composer (optional, for autoloading)
 
-### Contribution guidelines ###
+## Installation
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/hris-attendance.git
+   cd hris-attendance
